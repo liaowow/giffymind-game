@@ -2,6 +2,7 @@
 
 ## Introduction
 Welcome to GIFFYMind, a remake of the MasterMind game. GIFFYMind is a single-page application written with React JS.
+Website: https://giffymind.netlify.com/
 
 ## Game Rules
 At the beginning of each game the computer generates a secret code of four gifs. The gifs are always chosen from the same eight gifs. Duplicates are allowed, so the computer could even choose the same gif four times.
